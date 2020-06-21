@@ -9,4 +9,7 @@ public class TestClass {
     private Date birthDate;
     private String phone;
     private String email;
+
+    public TestClass() {
+    }
 }
