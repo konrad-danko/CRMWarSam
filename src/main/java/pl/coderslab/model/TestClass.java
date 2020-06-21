@@ -21,4 +21,11 @@ public class TestClass {
         this.phone = phone;
         this.email = email;
     }
+
+    public int getCustomerId() {
+        return customerId;
+    }
+    public void setCustomerId(int customerId) {
+        this.customerId = customerId;
+    }
 }
