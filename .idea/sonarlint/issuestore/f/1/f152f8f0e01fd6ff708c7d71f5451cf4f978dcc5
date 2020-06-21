@@ -1,0 +1,19 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ЙҐџ™8„¶ЗцҐ.
+@
+java:S1148_"#Use a logger to log this exception.(«Т«к8ђоив¶.
+@
+java:S1148c"#Use a logger to log this exception.(«Т«к8ђоив¶.
+@
+java:S1148="#Use a logger to log this exception.(«Т«к8ђоив¶.
+@
+java:S1148I"#Use a logger to log this exception.(«Т«к8ђоив¶.
+@
+java:S1148+"#Use a logger to log this exception.(«Т«к8ђоив¶.
+@
+java:S1148{"#Use a logger to log this exception.(«Т«к8ђоив¶.
+e
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(≤Рѓѕ8Яирв¶.
+W
+java:S1141R"5Extract this nested try block into a separate method.(СзИаю€€€€8ђоив¶.

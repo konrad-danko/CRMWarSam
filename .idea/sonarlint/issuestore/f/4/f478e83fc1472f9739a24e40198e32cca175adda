@@ -1,0 +1,49 @@
+
+
+java:S1192"{Define a constant instead of duplicating this literal "INNER JOIN STATUSES ON ORDERS.STAT_ID = STATUSES.STAT_ID\n" 5 times.(Ãå…êşÿÿÿÿ8Ú²„ˆ¨.
+A
+java:S1148·"#Use a logger to log this exception.(Ç’Çê8ƒ©.
+Ÿ
+java:S1192 "Define a constant instead of duplicating this literal "INNER JOIN VEHICLES ON ORDERS.VEHICLE_ID = VEHICLES.VEHICLE_ID\n" 5 times.(ĞµúÆ8Ú²„ˆ¨.
+Î
+java:S1192"«Define a constant instead of duplicating this literal "PROBLEM_DESCR, EMPLOYEES.EMPLOYEE_ID, CONCAT(FIRSTNAME,' ', LASTNAME) AS EMPLOYEE_NAME, ORDR_CREAT_DATE,\n" 5 times.(Á´Ìÿÿÿÿÿ8Ú²„ˆ¨.
+X
+java:S1141Ü"5Extract this nested try block into a separate method.(‘çˆàşÿÿÿÿ8Â¦Ş¡¬.
+A
+java:S1148÷"#Use a logger to log this exception.(Ç’Çê8Â¦Ş¡¬.
+£
+java:S1192"…Define a constant instead of duplicating this literal "INNER JOIN EMPLOYEES ON ORDERS.EMPLOYEE_ID = EMPLOYEES.EMPLOYEE_ID\n" 5 times.(ü’¤8Ú²„ˆ¨.
+p
+java:S1192"NDefine a constant instead of duplicating this literal "FROM ORDERS\n" 5 times.(ÔÉääùÿÿÿÿ8Ú²„ˆ¨.
+½
+java:S1192" Define a constant instead of duplicating this literal "SELECT ORDER_ID, VEHICLES.VEHICLE_ID, CONCAT(MARK,' ',MODEL,', ',REG_NUMBER) AS VEHICLE_NAME,\n" 3 times.(Ñ’œ]8ÖÌÿ­©.
+A
+java:S1148Î"#Use a logger to log this exception.(Ç’Çê8¹©¨.
+É
+java:S1192"¦Define a constant instead of duplicating this literal "PLAN_REP_DATE, ACTU_REP_DATE, MAN_HOURS, ORDERS.HOURLY_WAGE, PARTS_COST, REPAIR_COST, REPAIR_DESCR,\n" 5 times.(¥”í¬ûÿÿÿÿ8Ú²„ˆ¨.
+A
+java:S1148‰"#Use a logger to log this exception.(Ç’Çê8ùÿœŠ¨.
+A
+java:S1148¬"#Use a logger to log this exception.(Ç’Çê8­’¯Š¨.
+A
+java:S1148ó"#Use a logger to log this exception.(Ç’Çê8Â¦Ş¡¬.
+@
+java:S1148e"#Use a logger to log this exception.(Ç’Çê8ÄĞêˆ¨.
+X
+java:S1141’"5Extract this nested try block into a separate method.(‘çˆàşÿÿÿÿ8­’¯Š¨.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ø”·®8Ûº¢…¨.
+A
+java:S1148Ò"#Use a logger to log this exception.(Ç’Çê8¹©¨.
+A
+java:S1148—"#Use a logger to log this exception.(Ç’Çê8‘ô¨Ú¬.
+X
+java:S1141·"5Extract this nested try block into a separate method.(‘çˆàşÿÿÿÿ8¹©¨.
+Š
+java:S1192"hDefine a constant instead of duplicating this literal "STATUSES.STAT_ID, STATUS AS STAT_NAME\n" 5 times.(­¯ªøÿÿÿÿ8Ú²„ˆ¨.
+j
+java:S3252Q"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".( ¤¹øÿÿÿÿ8¯©£Ú¬.
+A
+java:S1148¨"#Use a logger to log this exception.(Ç’Çê8­’¯Š¨.
+@
+java:S1148}"#Use a logger to log this exception.(Ç’Çê8Å—·‰¨.

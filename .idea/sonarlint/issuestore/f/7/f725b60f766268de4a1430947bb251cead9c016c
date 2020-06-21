@@ -1,0 +1,27 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ø ¢ 8Ó¬Çâ¤.
+W
+java:S1141W"5Extract this nested try block into a separate method.(‘çˆàþÿÿÿÿ8Ñ¸ÝÓ¦.
+W
+java:S1141s"5Extract this nested try block into a separate method.(‘çˆàþÿÿÿÿ8ÂÆÇà«.
+@
+java:S11481"#Use a logger to log this exception.(Ç’Çê8Á×ÛÓ¦.
+A
+java:S1148„"#Use a logger to log this exception.(Ç’Çê8ÂÆÇà«.
+A
+java:S1148š"#Use a logger to log this exception.(Ç’Çê8ÂÆÇà«.
+@
+java:S1148B"#Use a logger to log this exception.(Ç’Çê8Á×ÛÓ¦.
+@
+java:S1148c"#Use a logger to log this exception.(Ç’Çê8Ñ¸ÝÓ¦.
+@
+java:S1148N"#Use a logger to log this exception.(Ç’Çê8Á×ÛÓ¦.
+A
+java:S1148€"#Use a logger to log this exception.(Ç’Çê8ÂÆÇà«.
+@
+java:S1148g"#Use a logger to log this exception.(Ç’Çê8Ñ¸ÝÓ¦.
+S
+java:S1128"7Remove this unused import 'pl.coderslab.model.Vehicle'.(£š¸D8¦š·à«.
+j
+java:S3252#"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(Ð€ÇÚýÿÿÿÿ8†Ä™à«.

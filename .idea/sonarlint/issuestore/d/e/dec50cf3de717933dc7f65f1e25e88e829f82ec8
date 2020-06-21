@@ -1,0 +1,8 @@
+
+l
+java:S2259"JA "NullPointerException" could be thrown; "getInstance()" can return null.(‰Ô“öüÿÿÿÿ8Ï¥Öï¡.
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(ôßüßûÿÿÿÿ8Ï¥Öï¡.
+E
+java:S1148"#Use a logger to log this exception.(êÆ‘àÿÿÿÿÿ8Ï¥Öï¡.
